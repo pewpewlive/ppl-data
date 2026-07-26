@@ -17,6 +17,7 @@ APYMJWtMO1sIHhhGjp6iB,Triskiv
 B6QvndkC2LW8O6Jp1HsjB,#0bbaffffWaves Blue
 BJ2KMIkQBKCdzI0xq0ABc,#ffff00ffBaf #2596beffRain
 C2RHXNcDabo5KWzrw0cop,#0000ffffRo#ff0000ffu#00ff00ffle#ffff00fft#ff00ffffte#00ffffff!
+D5O2G4jqr5w4D4EjnJglV,#aa10ffffMace World
 D7RfAt7ZhAcCe7XKnJxt5,#ff03ffffCR#ffffffffAS#ffff00ffBAF
 DKDEYSsEgdjElLWg7Nw0R,#0099ffff0#ff0000ff8#0099ffff0#0099ffff0
 DnzLdegDTaF1u0OdOnxZx,#ff00ffffC#ffff00ffh#00ffffffa#ff0000ffl#00ff00ffl#0000ffffe#9999ffffn#ff9999ffg#99ff99ffe #ffffffff4
@@ -30,6 +31,7 @@ G11woDoCr23OFeTLSeHlU,#7000ffffInvasion
 GQ1L23gb5ksVXKMaI2Wat,#00ffffffHexa#00ff00ffskiv
 HlGj39ziiJUkGJTFKrT4H,#be1f64ffP#ff0000ffo#c74b00ffl#00ff00ffy#00f6c1ffg#be1f64ffo#ff0000ffn#c74b00ffs
 HpfC42TNwH5AEmvWkkQof,Simon Says
+JbQiKLaavIux2uWQVgftx,#ff0fa3a5Rolly #ff0f73f5Polly
 JslegBRVETOgbjSkohjBg,#ff0000ffMot#ff0070ffher#00ffffffship #00ff00ffMix
 KTN7DudFR2ja4uYl4i39_,#2049ceffThe #28c10cffGenerator
 MMDUFnJSiDwTl20JGDr8C,#ffffffbbEx#ffbbbbffvex#ffffffffance
@@ -44,6 +46,7 @@ RHl42tQqV4o2D0UiC5m40,#00ff1affzale
 RU5LAgKefz5BZY19KLoCP,#ff000040W#ff000050r#ff000030a#ff000070t#ff000050h
 RwTg2aQLsJKBpt3VETRQG,#ffffff55Claustrophobia
 TizfulCYU06IAPPkelVnB,#00ff00ffLaser
+UoGncm1fY_JtxkofK_wz9,#ff00ffffRose Of #ff0000ffDEATH
 VAQ5bWlqAsAOCjiAwQlJF,#ff0061f9_=NEO #5100ffffGRID=_
 XhZg3l2wPdEFKIfwUbE6Q,Bombardment
 YLnrN_6dpWCHoFXiOMS2W,#673ab7ffPurple World
@@ -60,17 +63,17 @@ ag9zfnBld3Bldy1vbmxpbmVyFwsSCkxldmVsRW50cnkYgICAuv6RrwoM,Heavy Plummet
 ag9zfnBld3Bldy1vbmxpbmVyFwsSCkxldmVsRW50cnkYgICAwpWehgkM,Waves Pro
 ag9zfnBld3Bldy1vbmxpbmVyFwsSCkxldmVsRW50cnkYgICAws3MmwkM,Linkage
 ag9zfnBld3Bldy1vbmxpbmVyFwsSCkxldmVsRW50cnkYgICAyv2e2woM,Bee Hive
-asteroids,#cfcfcfffA#d5d5d5ffs#dbdbdbfft#e1e1e1ffe#e7e7e7ffr#edededffo#f3f3f3ffi#f9f9f9ffd#ffffffffs
+asteroids,#cfcfcfffAsteroids
 bccv8gaex2JwCXYEj1yJS,#00e5ffffCube
 bpprOLBAjF6hFL1wKvfMJ,#cc555599Duel
 ccAHd_9A1WhMf458BrRXB,#FFFFFF70Blindness
-ceasefire,#1515ffffC#1f15ffffe#2915ffffa#3315ffffs#3c15ffffe#4615fffff#5015ffffi#5915ffffr#6315ffffe
+ceasefire,#1616ffffCeasefire
 e3bQkXLwZxBJlWn0XD_v5,#7affc3ffMadreinka
-eskiv,#00ff00ffE#00ff2affs#00ff54ffk#00ff7fffi#00ffaaffv
+eskiv,#86fa5fffEskiv
 fMl0qqG4DSegLafEQFvvq,#ffff99ffChallenge 1
-fury,#ff8000ffF#ff7000ffu#ff6000ffr#ff5000ffy
+fury,#ff8330ffFury
 gykUpWFpnsVXdVqRipMaY,#20ff75ffEskiv #ff2520ffNo boxes
-hexagon,#5bfce4ffH#4beee8ffe#3ce0edffx#2dd3f1ffa#1ec5f6ffg#0fb7faffo#00aaffffn
+hexagon,#5bfce4ffHexagon
 i3lCbEwS0VtMjtSqivd9c,Interdimensional problems
 iuCC8YPMdzrgESaOiqKc4,Bouncy Recoil
 j9U91notH5NBqtXldiSog,#ffffffbbDi#ffffffffffi#ffffffbbcu#fffffffflt #00ff20ffR#aaff20ffo#eeff20ffu#ffcc20ffn#ff7720ffd#ff1120ffs
@@ -80,16 +83,15 @@ kB5t864Jh_eoJOng21VCq,Challenge 3
 lgUZ7OQZlVc5HUHFoGgLd,#ff1100ffHellskiv
 mTRQoEASAjJoYSFTCN0wP,#0404f7fffelp
 mzaIpL6hj2OVImwwPNIwF,Deadzone
-oasis,#1f3fffffO#1f5bffffa#1f77ffffs#1f93ffffi#1fafffffs
-pandemonium,#ff77ccffP#ff77c2ffa#ff77b9ffn#ff77b0ffd#ff77a7ffe#ff779effm#ff7795ffo#ff778cffn#ff7783ffi#ff777affu#ff7c77ffm
-partitioner,#65ff88ffP#65ff92ffa#65ff9cffr#65ffa6fft#65ffb0ffi#65ffbbfft#65ffc5ffi#65ffcfffo#65ffd9ffn#65ffe3ffe#65ffeeffr
+pandemonium,#ff88ccffPandemonium
+partitioner,#66ff88ffPartitioner
 pnoksVSPYlAcGMb62KoVh,Cubes and Squares?
 r0wvVoXcZ1XauROJdts5L,#ffaa0050S#ffcc0080y#ffee00aan#ffff00ffthe#ffee00aas#ffcc0080i#ffaa0050s
 r6tB425YS638C1Ij_DQEx,Just Pong
 slywgaLb97yKLnysnzacj,Stripped Hell
-symbiosis,#ff4343ffS#ff4f43ffy#ff5b43ffm#ff6743ffb#ff7243ffi#ff7e43ffo#ff8a43ffs#ff9543ffi#ffa143ffs
+symbiosis,#ff9999ffSymbiosis
 tmnIEV3mrTNcrRzoZEB77,Marching cubes v2
 uAeBBrmuzKIqLNQKwM1HG,#ff0000ffNO we #ffffffffr#00ff1affL#ffffffffK#931b21ffira
 vJqshN0BpN7wRu4nijkmQ,#ff0000ffCrush #ffffffffThe #ffff00ffCasuals#ffffffff!
-waves,#ecf86dffW#f0f951ffa#f5fb36ffv#fafd1bffe#ffff00ffs
+waves,#fcf85dffWaves
 xo8lychHUy7lass08Cyjb,Pew Pong
